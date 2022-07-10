@@ -5,7 +5,7 @@ export default function Films() {
     return (
         <View>
             <Header/>
-            <Text>Films</Text>
+            <Text>Filmss</Text>
         </View>
     );
 }
