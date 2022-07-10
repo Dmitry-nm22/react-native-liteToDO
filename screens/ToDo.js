@@ -50,5 +50,4 @@ const styles = StyleSheet.create({
     bg:{
         flex: 1,
     },
-
 });

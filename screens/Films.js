@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { Text, View } from 'react-native';
 import Header from "../components/Header";
 
 export default function Films() {
@@ -10,10 +10,3 @@ export default function Films() {
     );
 }
 
-const styles = StyleSheet.create({
-    container:{
-        flex: 1,
-        justifyContent: 'center',
-        alignItems : "center"
-    },
-});
