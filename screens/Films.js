@@ -34,7 +34,7 @@ export default function Films() {
             setError(error)
         });
     }, []);
-console.log(film)
+// console.log(film)
     return (
         <View>
             <Header/>
