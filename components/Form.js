@@ -23,8 +23,6 @@ const Form = ({AddTodo}) => {
                         })
                         setInputValue('')
                     }}
-
-
                 />
         </View>
     )
