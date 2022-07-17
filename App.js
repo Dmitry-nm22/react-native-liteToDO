@@ -4,7 +4,6 @@ import Todo from "./screens/ToDo";
 import Films from "./screens/Films";
 
 const Tab = createBottomTabNavigator();
-
 export default function App() {
   return (
       <NavigationContainer>
